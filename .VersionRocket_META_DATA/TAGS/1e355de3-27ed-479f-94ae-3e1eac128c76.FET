@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FolderEntryTags xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Id>1e355de3-27ed-479f-94ae-3e1eac128c76</Id>
+  <FolderEntry>
+    <EntryType>File</EntryType>
+    <DisplayName>OR-31.docx</DisplayName>
+    <PathInsideRepo />
+    <RepoRootFolder>C:\Users\admin\Documents\VersionRocket Repositories\OracleMike1</RepoRootFolder>
+    <Deleted>false</Deleted>
+    <Contents />
+    <FolderEntryView>Thumbnail</FolderEntryView>
+  </FolderEntry>
+  <Tags>
+    <guid>b2b45524-35e7-4a1e-bfdf-622fd405f83a</guid>
+    <guid>31adfb4f-1e1d-4426-82f2-b6fe5252347c</guid>
+  </Tags>
+</FolderEntryTags>
